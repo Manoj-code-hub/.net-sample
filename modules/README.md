@@ -1,3 +1,4 @@
+#121232322323
 # Azure Resource Manager Template Modules
 
 This folder contains reusable templates or modules that can be used to simplify the creation of common or standard resources.  These can also be used as prereqs for samples in this repo.
